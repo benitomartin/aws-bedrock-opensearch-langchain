@@ -12,6 +12,7 @@ Main Steps
 - **Embedding and Model**: Bedrock Titan
 - **Vector Store and Endpoint**: Opensearch
 - **IaC**: Terraform
+- **data**: original pdf document and generated json file with embeddings
 
 Feel free to ⭐ and clone this repo 😉
 
